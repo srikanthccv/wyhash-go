@@ -1,2 +1,2 @@
 # wyhash-go
-wyhash fast portable non-cryptographic hashing algorithm and random number generator in Go
+wyhash-go is an implementation of the random number generator wyhash in golang
